@@ -1,0 +1,8 @@
+Tanner Tracy PA 2
+CSCI 4273
+
+Usage: ./webserver <port>
+
+This is a simple HTTP web server written in C. To use simply make in the corresponding directory, place the web files/HTTP files in the www folder located in the same folder as webserver.c. Then, navigate to the directory in a terminal, make, and run using the command listed above.
+
+If you wish to change the file pointed to as the index of your website from index.html to something different, simply modify the first line of ws.conf with the new file name located in the www directory.
